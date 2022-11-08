@@ -9,6 +9,12 @@
   "engines": {
     "node": ">=16"
   },
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0",
+    "meow": "^11.0.0",
+    "tasktree-cli": "^6.0.5",
+    "wtf_wikipedia": "^10.0.3"
+  },
   "devDependencies": {
     "eslint": "^8.25.0",
     "eslint-config-xo": "^0.42.0"
