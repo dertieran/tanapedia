@@ -1,0 +1,16 @@
+{
+  "name": "tanapedia",
+  "version": "1.0.0",
+  "description": "Wikipedia import for Tana",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "author": "Philipp Beck <dertieran@gmail.com>",
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-xo": "^0.42.0"
+  }
+}

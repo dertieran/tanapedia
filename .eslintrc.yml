@@ -1,0 +1,14 @@
+env:
+  browser: true
+  es2021: true
+  node: true
+extends:
+  - xo
+parserOptions:
+  ecmaVersion: latest
+  sourceType: module
+rules:
+  prefer-template: error
+  camelcase: off
+  no-await-in-loop: off
+  capitalized-comments: off
